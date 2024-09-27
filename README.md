@@ -6,7 +6,7 @@
 
 #
 
-##Game Features
+## Game Features
 
 3D Platformer: ‘Fly Up’ is a fun flying game in 3D environments!
 
