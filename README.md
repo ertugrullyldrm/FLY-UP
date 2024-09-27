@@ -1,5 +1,5 @@
-# Flying Dragons
-‘Flying Dragons’ is an exciting 3D platformer. Controlling a cute green dragon, players try to fly over dangerous obstacles and have a fun adventure through several levels. The game features a simple but attractive visual world with ‘pixel art’ style!
+# Fly Up
+‘Fly Up’ is an exciting 3D platformer. Controlling a cute green dragon, players try to fly over dangerous obstacles and have a fun adventure through several levels. The game features a simple but attractive visual world with ‘pixel art’ style!
 
 #
 ![1](https://github.com/user-attachments/assets/8cb73646-1178-4a31-88ea-85175b9684cc)
@@ -8,7 +8,7 @@
 
 ##Game Features
 
-3D Platformer: ‘Flying Dragons’ is a fun flying game in 3D environments!
+3D Platformer: ‘Fly Up’ is a fun flying game in 3D environments!
 
 Simple and User-Friendly Controls: The game features easy-to-understand controls that anyone can play.
 
@@ -32,4 +32,4 @@ Download the project file from GitHub: Review the project and make changes to th
 
 Send Pull Request: Use the GitHub repo if you want to improve the project!
 
-I hope the description of ‘Flying Dragons’ will be useful to you!
+I hope the description of ‘Fly Up’ will be useful to you!
